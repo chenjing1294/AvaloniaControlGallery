@@ -1,6 +1,6 @@
 # AvaloniaControlGallery
 
-![image](./AvaloniaControlGallery/images/1.png)
-![image](./AvaloniaControlGallery/images/2.png)
-![image](./AvaloniaControlGallery/images/3.png)
+![image](./images/1.png)
+![image](./images/2.png)
+![image](./images/3.png)
 
